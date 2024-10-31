@@ -150,4 +150,3 @@
     <ul>
         <li>By email: <a href="mailto:mohamedkhaled329321@gmail.com">mohamedkhaled329321@gmail.com</a></li>
     </ul>
-    </ul><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
